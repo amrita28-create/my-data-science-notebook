@@ -77,10 +77,6 @@ Seasonal decomposition plots
 Actual vs. Forecast graphs
 
 
-
-
-
-
 Project Overview – Customer Churn Prediction (Deep Learning)
 
 This project focuses on building a Deep Learning–based Customer Churn Prediction model to help businesses identify customers who are likely to leave the platform. Churn prediction is a critical task for subscription-based companies, telecom providers, banks, and online services because retaining customers is far more cost-effective than acquiring new ones.
@@ -88,7 +84,7 @@ This project focuses on building a Deep Learning–based Customer Churn Predicti
 Using a neural network built with TensorFlow/Keras, this project analyzes customer behavior, usage patterns, and demographic features to predict whether a customer will churn. The model aims to support data-driven customer retention strategies.
 
 
-🎯 Objectives
+Objectives
 
 Understand customer behavior and patterns leading to churn
 Perform data preprocessing, EDA, and feature engineering
